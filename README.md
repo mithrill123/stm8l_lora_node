@@ -77,4 +77,4 @@ UART is: ENABLED
 # Warning
  **By flashing this firmware You are wiping original firmware of the module. There is no way to revert original firmware. You must really understand what you are doing. No responsible for bricking your devices!**
  
- 
+ Testing
